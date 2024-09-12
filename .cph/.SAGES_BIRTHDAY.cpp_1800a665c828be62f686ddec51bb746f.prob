@@ -1,0 +1,1 @@
+{"name":"Local: SAGES_BIRTHDAY","url":"/Users/ayush25/Desktop/CP/CODEFORCES/SAGES_BIRTHDAY.cpp","tests":[{"id":1726060605074,"input":"7\n1 3 2 2 4 5 4","output":"3\n3 1 4 2 4 2 5 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ayush25/Desktop/CP/CODEFORCES/SAGES_BIRTHDAY.cpp","group":"local","local":true}
